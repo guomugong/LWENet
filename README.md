@@ -8,6 +8,9 @@ Fundus image is an important indicator for diagnosing diabetic retinopathy (DR),
 ## Dataset
 DDR can be download [here.](https://github.com/nkicsl/DDR-dataset)
 
+## Caffe
+Caffe can be download [here.](https://github.com/guomugong/FFIA)
+
 ## License
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)

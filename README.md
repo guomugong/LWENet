@@ -7,7 +7,9 @@ Fundus image is an important indicator for diagnosing diabetic retinopathy (DR),
 
 ## Dataset
 DDR can be download [here.](https://github.com/nkicsl/DDR-dataset)
+
 IDRiD can be download [here.](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid)
+
 e-ophtha EX can be download [here.](http://www.adcis.net/en/third-party/e-ophtha/)
 
 ## Caffe
